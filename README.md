@@ -46,6 +46,7 @@ The project demonstrates the complete data analysis workflow, including data und
 ---
 
 ## 📂 Project Structure
+```
 unemployment-analysis-india/
 │
 ├── data/
@@ -61,7 +62,7 @@ unemployment-analysis-india/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
